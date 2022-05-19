@@ -6,35 +6,38 @@
 
 ## Description
 
-The following project is to create a Portfolio, that can showcase my skills and talents to potential employers.
-Highlighting my strongest work as well as the thought processes behind it. 
-Use of flexbox, media queries, CSS variables and finally deployed web applications.
-My projects are only an idea. Are not really made yet.
+GIVEN I need a new, secure password
+WHEN I click the button to generate a password
+THEN I am presented with a series of prompts for password criteria
+WHEN prompted for password criteria
+THEN I select which criteria to include in the password
+WHEN prompted for the length of the password
+THEN I choose a length of at least 8 characters and no more than 128 characters
+WHEN asked for character types to include in the password
+THEN I confirm whether or not to include lowercase, uppercase, numeric, and/or special characters
+WHEN I answer each prompt
+THEN my input should be validated and at least one character type should be selected
+WHEN all prompts are answered
+THEN a password is generated that matches the selected criteria
+WHEN the password is generated
+THEN the password is either displayed in an alert or written to the page
 
-## Portfolio consist in:
-- Developer's name. 
-- A recent photo. 
-- Respective links to sections about me, my work, and how to contact me.
-- Links are responsive scrolls to the corresponding sections.
-- Developer's first application, the image is larger in size than the others.
-- Resize the page or view the site on various screens and devices
+## Link to the web-site
 
-## Link to my web-site
-
-https://evelyntorress.github.io/fuzzy-engine/
+https://evelyntorress.github.io/fantastic-lamp/
 
 
 ## Screenshots of the web site.
 
-![](assets/images/web-site1.jpeg)
+![](assets/images/website1.jpeg)
 
-![](assets/images/web-site2.jpeg)
-
-
-![](assets/images/web-site3.jpeg)
+![](assets/images/website2.jpeg)
 
 
-![](assets/images/web-site4.jpeg)
+![](assets/images/website3.jpeg)
+
+
+![](assets/images/website4.jpeg)
 
 
 
