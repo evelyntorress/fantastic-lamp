@@ -2,7 +2,7 @@
 
 ## Description
 
-The goal of the project was to generate random passwords based on criteria that they’ve selected. This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code. It will have a clean and polished, responsive user interface.
+The goal of the project was to generate random passwords based on criteria that the user have selected. This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code. It will have a clean and polished, responsive user interface.
 
 
 - Includes prompted for the length of the password.
@@ -11,12 +11,12 @@ The goal of the project was to generate random passwords based on criteria that 
 - When all prompts are answered, a password is generated.
 
 
-## Link to the web-site
+## Deployed app
 
 https://evelyntorress.github.io/fantastic-lamp/
 
 
-## Screenshots of the web site.
+## Mock up
 
 ![](assets/images/website1.jpeg)
 
