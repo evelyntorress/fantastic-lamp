@@ -22,9 +22,7 @@ https://evelyntorress.github.io/fantastic-lamp/
 
 ![](assets/images/website2.jpeg)
 
-
 ![](assets/images/website3.jpeg)
-
 
 ![](assets/images/website4.jpeg)
 
